@@ -10,3 +10,5 @@ cask install sublime-text 2> /dev/null
 cask install the-unarchiver 2> /dev/null
 cask install virtualbox 2> /dev/null
 cask install alfred 2> /dev/null
+cask install bettertouchtool 2> /dev/null
+cask install clipmenu 2> /dev/null
