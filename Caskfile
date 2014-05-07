@@ -12,3 +12,4 @@ cask install virtualbox 2> /dev/null
 cask install alfred 2> /dev/null
 cask install bettertouchtool 2> /dev/null
 cask install clipmenu 2> /dev/null
+cask install flux 2> /dev/null
