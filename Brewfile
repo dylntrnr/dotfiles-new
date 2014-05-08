@@ -56,6 +56,8 @@ install webkit2png
 install xpdf
 install zopfli
 install hub
+install gfortran
+install r
 
 install homebrew/versions/lua52
 
