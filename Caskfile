@@ -15,3 +15,4 @@ cask install clipmenu 2> /dev/null
 cask install flux 2> /dev/null
 cask install xquarts 2> /dev/null
 cask install rstudio 2> /dev/null
+cask install firefox 2> /dev/null

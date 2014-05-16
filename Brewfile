@@ -63,3 +63,5 @@ install homebrew/versions/lua52
 
 # Remove outdated versions from the cellar
 cleanup
+brew tap laurent22/massren
+brew install massren
