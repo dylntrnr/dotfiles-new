@@ -58,6 +58,7 @@ install zopfli
 install hub
 install gfortran
 install r
+install html-xml-utils
 
 install homebrew/versions/lua52
 
