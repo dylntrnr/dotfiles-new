@@ -59,6 +59,7 @@ install hub
 install gfortran
 install r
 install html-xml-utils
+install z
 
 install homebrew/versions/lua52
 
