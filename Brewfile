@@ -59,7 +59,7 @@ install hub
 install gfortran
 install r
 install html-xml-utils
-
+install htop-osx
 install homebrew/versions/lua52
 
 # Remove outdated versions from the cellar
