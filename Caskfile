@@ -18,3 +18,7 @@ cask install rstudio 2> /dev/null
 cask install firefox 2> /dev/null
 cask install skype 2> /dev/null
 cask install filezilla 2> /dev/null
+cask alfred link
+cask install box-sync 2> /dev/null
+cask install google-drive 2> /dev/null
+cask install vagrant 2> /dev/null

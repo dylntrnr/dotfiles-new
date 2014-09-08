@@ -60,6 +60,8 @@ install gfortran
 install r
 install html-xml-utils
 install htop-osx
+install z
+
 install homebrew/versions/lua52
 
 # Remove outdated versions from the cellar
