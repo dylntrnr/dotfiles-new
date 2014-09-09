@@ -61,6 +61,7 @@ install r
 install html-xml-utils
 install htop-osx
 install z
+install hg
 
 install homebrew/versions/lua52
 
