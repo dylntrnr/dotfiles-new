@@ -69,3 +69,5 @@ install homebrew/versions/lua52
 cleanup
 brew tap laurent22/massren
 brew install massren
+brew tap homebrew/binary
+brew install exercism
