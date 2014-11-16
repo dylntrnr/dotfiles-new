@@ -63,6 +63,8 @@ install htop-osx
 install z
 install hg
 install jq
+install docker
+install boot2docker
 
 install homebrew/versions/lua52
 
