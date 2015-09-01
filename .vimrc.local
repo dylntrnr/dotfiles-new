@@ -34,3 +34,4 @@ silent! autocmd VimEnter * RemoveConflictingAlignMaps
 let g:user_emmet_install_global = 0
 autocmd FileType html,css EmmetInstall
 autocmd BufLeave,FocusLost * silent! wall
+set spelllang=en
